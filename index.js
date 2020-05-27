@@ -1,2 +1,2 @@
-const favoriteNumber = 777;
+const favoriteNumber = 12345;
 const favoriteColor = "yella";
