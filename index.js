@@ -1,3 +1,3 @@
-const favoriteNumber = 111;
-const favoriteColor = "brown";
+const favoriteNumber = 222;
+const favoriteColor = "yella";
 
