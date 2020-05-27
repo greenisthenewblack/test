@@ -1,2 +1,2 @@
-const favoriteNumber = 888;
+const favoriteNumber = 123;
 const favoriteColor = "yella";
